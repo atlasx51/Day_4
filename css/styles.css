@@ -1,0 +1,24 @@
+.navbar-default {
+  background-color: #9A5A5C !important;
+
+}
+
+.jumbotron {
+    position: relative;
+    background: #000 url("http://i.imgur.com/5ahTckK.jpg?1") center center;
+    width: 100%;
+    height: 30em;
+    background-size: cover;
+    overflow: hidden;
+}
+
+p {
+  color: #FB1E3A;
+
+}
+
+
+.footer {
+  background-color: #39282A;
+  text-align: center;
+}
